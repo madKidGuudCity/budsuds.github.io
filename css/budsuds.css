@@ -1,1 +1,11 @@
-body { background-color: #048243;}
+@font-face {
+font-family: "Andes";
+src: url("fonts/andes-webfont.woff"); /*Pretty Modern Browsers*/
+src:
+url("fonts/andes-webfont.woff2") format("woff2"), /*Super Modern Browsers*/
+url("fonts/andes-webfont.ttf") format("truetype"); /*Safari, Android, iOS*/
+}
+
+body { background-color: #048243;
+	 font-family: "Andes", Fallback, sans-serif;  
+}
