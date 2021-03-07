@@ -7,5 +7,27 @@ url("fonts/andes-webfont.ttf") format("truetype"); /*Safari, Android, iOS*/
 }
 
 body { background-color: #048243;
-	 font-family: "Andes", Fallback, sans-serif;  
+	 font-family: "Andes", Fallback, sans-serif;
+	 margin: 0;
+	 padding: 0;
+}
+
+nav {
+	position: fixed;
+	width: 600px;
+	left: 30%;
+	top: 5%;
+	text-align: center;
+	margin: 0 auto;
+	height: 60px;
+}
+
+nav a{
+	text-decoration: none;
+	font-size: 20px;
+	color: #262626;
+	text-transform: uppercase;
+	font-weight; bold;
+	font-family: poppins;
+	margin-right: 25px;
 }
