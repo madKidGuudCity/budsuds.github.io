@@ -6,7 +6,8 @@ url("fonts/andes-webfont.woff2") format("woff2"), /*Super Modern Browsers*/
 url("fonts/andes-webfont.ttf") format("truetype"); /*Safari, Android, iOS*/
 }
 
-body { background-color: #048243;
+body { 
+	 background-color: #048243;
 	 font-family: "Andes", Fallback, sans-serif;
 	 margin: 0;
 	 padding: 0;
@@ -47,4 +48,14 @@ nav a{
 	flex-direcetion: column;
 	font-size: 2vw;
 	color: #fff;
+}
+
+.banner-arena h2{
+	font-family: "Andes", Fallback, poppins;
+	font-weight: bold;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-size: 65px;
+	margin: 0 0 25px;
+	animation: animate 2s 1;
 }
