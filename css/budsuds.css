@@ -35,7 +35,7 @@ nav a{
 
 .banner-arena{
 	width: 100%;
-	height: 100vh;
+	height: 70vh;
 	background: url(x.jpg);
 	background-position: center center;
 	-webkit-background-size: cover;
@@ -45,7 +45,7 @@ nav a{
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	flex-direcetion: column;
+	flex-direction: column;
 	font-size: 2vw;
 	color: #fff;
 }
