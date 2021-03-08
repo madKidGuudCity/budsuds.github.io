@@ -6,6 +6,8 @@ url("fonts/andes-webfont.woff2") format("woff2"), /*Super Modern Browsers*/
 url("fonts/andes-webfont.ttf") format("truetype"); /*Safari, Android, iOS*/
 }
 
+/*@media only screen and (min-width: 768px) and (max-width: 1024px)*/
+
 body { 
 	 background-color: #048243;
 	 font-family: "Andes", Fallback, sans-serif;
@@ -28,7 +30,7 @@ nav a{
 	font-size: 20px;
 	color: #262626;
 	text-transform: uppercase;
-	font-weight; bold;
+	font-weight: bold;
 	font-family: poppins;
 	margin-right: 25px;
 }
