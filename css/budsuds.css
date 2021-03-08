@@ -70,4 +70,9 @@ nav a{
 	font-family: poppins;
 	font-size: 25px;
 	animation: animate 2s 1;
+	justify-content: center;
+}
+
+h3 {
+	justify-content: center;
 }
