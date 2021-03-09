@@ -12,6 +12,7 @@ html {
 }
 
 body { 
+	 overflow: hidden;
 	 background-color: #048243;
 	 font-family: "Andes", Fallback, sans-serif;
 	 margin: 10;
@@ -128,8 +129,4 @@ body {
 
 .btn:hover {
   opacity:1;
-}
-
-.calendly-inline-widget {
-	overflow: hidden; /* Hide scrollbars */
 }
