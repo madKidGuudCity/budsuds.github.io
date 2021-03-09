@@ -8,7 +8,7 @@ url("fonts/andes-webfont.ttf") format("truetype"); /*Safari, Android, iOS*/
 
 html {
 	background-color: #CAFFFB; /*#048243*/
-	padding: 50px;
+	padding: 45px;
 }
 
 body { 
