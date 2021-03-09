@@ -17,6 +17,7 @@ body {
 	 margin: 10;
 	 padding: 15px;
 	 border-radius: 25px;
+	 min-height: 900px;
   @media screen {
     background: red;
   }
