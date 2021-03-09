@@ -29,7 +29,7 @@ body {
  
 }
 
-a {
+.nav a {
   display: flex;
   padding: 15px;
   text-decoration: none;
@@ -40,14 +40,14 @@ a {
   position: relative;
   transition: all 2s;
 }
-a, a:after, a:before {
+.nav a, .nav a:after, .nav a:before {
   transition: all .5s;
 }
-a:hover {
+.nav a:hover {
   color: #555;
 }
 
-a:after {
+.nav a:after {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -63,7 +63,7 @@ a:after {
   opacity: 0;
 }
 
-a:hover:after {
+.nav a:hover:after {
   width: 100%;
   z-index: -10;
   animation: fill 1s forwards;
@@ -72,7 +72,7 @@ a:hover:after {
   opacity: 1;
 }
 
-a:hover {
+.nav a:hover {
     color: #fff;
     z-index: 1;
 }
