@@ -129,3 +129,7 @@ body {
 .btn:hover {
   opacity:1;
 }
+
+.calendly-inline-widget {
+	overflow: hidden; /* Hide scrollbars */
+}
