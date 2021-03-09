@@ -12,7 +12,6 @@ html {
 }
 
 body { 
-	 overflow: hidden;
 	 background-color: #048243;
 	 font-family: "Andes", Fallback, sans-serif;
 	 margin: 10;
