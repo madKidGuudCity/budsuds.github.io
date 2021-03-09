@@ -9,7 +9,6 @@ url("fonts/andes-webfont.ttf") format("truetype"); /*Safari, Android, iOS*/
 html {
 	background-color: #CAFFFB; /*#048243*/
 	padding: 15px;
-	border-radius: 25px;
 }
 
 body { 
@@ -17,6 +16,7 @@ body {
 	 font-family: "Andes", Fallback, sans-serif;
 	 margin: 10;
 	 padding: 15px;
+	 border-radius: 25px;
   @media screen {
     background: red;
   }
