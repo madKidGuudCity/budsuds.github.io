@@ -80,7 +80,7 @@ body {
 }
 
 /*BANNER AREA*/
-.banner-arena{
+.banner-area{
 	width: 100%;
 	height: 100vh;
 	background-position: center center;
@@ -90,19 +90,23 @@ body {
 	display: -ms-flex;
 	display: flex;
 	align-items: center;
-	justify-content: center;
 	flex-direction: column;
 	font-size: 2vw;
 	color: #fff;
 }
 
-.banner-arena h2{
+.banner-area h2{
 	font-family: "Andes", Fallback, poppins;
 	font-weight: bold;
 	text-transform: uppercase;
 	letter-spacing: 5px;
 	font-size: 65px;
 	margin: 0 0 25px;
+}
+
+.banner-area h3, a {
+	justify-content: center;
+	font-family: Garamond, serif;
 }
 
 .btn {
