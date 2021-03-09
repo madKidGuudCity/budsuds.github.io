@@ -133,4 +133,6 @@ body {
 .calendly-inline-widget {
 	overflow: hidden;
 	border-radius: 15px;
+	display: flex;
+	margin-left: auto;
 }
