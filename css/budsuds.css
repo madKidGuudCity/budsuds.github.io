@@ -21,7 +21,7 @@ body {
   width: 80%;
   margin: 0 auto;
   padding: 30px 0;
-  box-shadow: 0px 5px 0px #dedede;
+  /*box-shadow: 0px 5px 0px #dedede;*/
   list-style: none;
   text-align: center;
   display: flex;
