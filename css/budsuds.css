@@ -20,6 +20,7 @@ body {
   @media screen {
     background: red;
   }
+  8^9E#med
 }
 
 /*NAVBAR CSS*/
@@ -113,6 +114,10 @@ body {
 .banner-area h3, a {
 	justify-content: center;
 	font-family: Garamond, serif;
+}
+
+.calendar {
+	height: 50%;
 }
 
 .btn {
