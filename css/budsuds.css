@@ -116,6 +116,11 @@ body {
 	display: flex;
 }
 
+.banner-left {
+padding-right: 30px;
+font-family: Garamond, serif;
+font-size: initial;
+
 .banner-area h3, a {
 	justify-content: center;
 	font-family: Garamond, serif;
