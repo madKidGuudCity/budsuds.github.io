@@ -122,7 +122,7 @@ font-family: Garamond, serif;
 font-size: initial;
 }
 
-.banner-left > h4 {
+.banner-left h4 {
     padding-right: 30px;
     padding-left: 30px;
 }
