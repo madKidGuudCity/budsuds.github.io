@@ -34,6 +34,7 @@ body {
   list-style: none;
   text-align: center;
   display: flex;
+  flex-wrap: wrap;
   justify-content:center;
   
  
@@ -149,3 +150,4 @@ font-size: initial;
 .calendly-inline-widget {
 	padding-right: 52px;
 }
+
