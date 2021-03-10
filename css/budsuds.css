@@ -122,6 +122,11 @@ font-family: Garamond, serif;
 font-size: initial;
 }
 
+.banner-left > h4 {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
 .banner-area h3, a {
 	justify-content: center;
 	font-family: Garamond, serif;
