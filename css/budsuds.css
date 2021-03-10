@@ -107,10 +107,13 @@ body {
 .banner-area h2 {
 	font-family: "Andes", Fallback, poppins;
 	font-weight: bold;
-	text-transform: uppercase;
 	letter-spacing: 5px;
 	font-size: 65px;
 	margin: 0 0 50px;
+}
+
+.banner {
+	display: flex;
 }
 
 .banner-area h3, a {
