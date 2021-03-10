@@ -146,8 +146,6 @@ font-size: initial;
   opacity:1;
 }
 
-.iframe {
-	margin-left: auto;
-	border: 8px solid #fff;
-	border-radius: 15px;
+.calendly-inline-widget {
+	padding: right;
 }
